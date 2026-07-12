@@ -1,0 +1,12 @@
+*.class
+*.o
+*.obj
+*.exe
+*.out
+__pycache__/
+*.pyc
+cpp/build/
+.vs/
+.idea/
+.DS_Store
+solutions/

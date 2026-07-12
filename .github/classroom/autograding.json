@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "name": "Question 1 - Bellman-Ford",
+      "setup": "cd java && javac TestHarness.java Question1_Tests.java Question1_BellmanFord.java",
+      "run": "cd java && java Question1_BellmanFord",
+      "timeout": 60,
+      "points": 20
+    }
+  ]
+}
